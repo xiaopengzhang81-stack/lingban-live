@@ -1,4 +1,21 @@
-# 赛博小雅直播版 · 组件版数字人（Vidu s2）
+# 灵伴直播 · Lingban Live
+
+让数字人成为能聊天、陪伴和互动的直播伙伴。
+
+这是 [xiaopengzhang81-stack](https://github.com/xiaopengzhang81-stack) 的个人 Vibe Coding 项目，基于 [cyber-xiaoya/cyber-xiaoya-live](https://github.com/cyber-xiaoya/cyber-xiaoya-live) 继续开发。
+
+- **项目仓库**：https://github.com/xiaopengzhang81-stack/lingban-live
+- **当前状态**：已建立开发起点，沿用上游功能；尚未完成本机部署与运行验证。
+- **后续方向**：逐步定制数字人形象与人设、直播操作界面，以及弹幕互动体验。
+- **开发方式**：通过自然语言提出需求，由 AI 协助修改代码，逐项验证后提交到本仓库。
+
+原作者为天工开帧 / AI少女宇宙计划组。本项目为个人衍生项目，与上游官方无关联；保留原有署名、[LICENSE](LICENSE) 和 [NOTICE](NOTICE)。代码采用 AGPL-3.0，素材与品牌的范围以 NOTICE 为准。
+
+以下保留上游项目介绍与部署文档，其中的作者、官方来源及示例均指上游项目。
+
+---
+
+## 上游说明：赛博小雅直播版 · 组件版数字人（Vidu s2）
 
 > **本项目永久免费开源。** 唯一官方来源：https://github.com/cyber-xiaoya/cyber-xiaoya-live
 > 任何付费售卖、代下载、代部署均未经授权，欢迎举报（举报：提 [Issue](https://github.com/cyber-xiaoya/cyber-xiaoya-live/issues) 或在本项目官方群里 @我）。
